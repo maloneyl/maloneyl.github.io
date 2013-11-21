@@ -1,0 +1,4 @@
+# this is actually an array in yaml, with 3 hashes
+- name: Twitter
+  url: https://www.twitter.com/thinkmaloney
+
