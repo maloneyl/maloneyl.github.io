@@ -3,4 +3,3 @@ exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
 
 name: Maloney L.
 markdown: redcarpet
-pygments: true # gem for syntax highlighting
